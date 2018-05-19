@@ -1,0 +1,4 @@
+#Tue May 15 04:12:33 BRT 2018
+base.0=D\:\\E-MID App\\Radio Acesa\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=D\:\\E-MID App\\Radio Acesa\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
